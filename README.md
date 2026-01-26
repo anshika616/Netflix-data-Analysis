@@ -11,21 +11,33 @@ To analyze the Netflix dataset using Python in order to understand content trend
 ## Questions (KPIs)
 
 1- What is the total number of movies and TV shows available on Netflix?
+
 2- How is the content distributed between Movies and TV Shows?
+
 3- Which genres are most common on Netflix?
+
 4- How has Netflix content grown over the years?
+
 5- Which countries produce the most Netflix content?
+
 6- What is the distribution of content ratings?
+
 7- Which directors and actors appear most frequently?
+
 8- What is the average duration of movies and TV shows?
+
 9- How does content availability vary by release year and type?  
 
 ## Process 
 
 -Collected the Netflix dataset and loaded it using Pandas.
+
 -Cleaned the data by handling missing values, correcting data types, and removing inconsistencies.
+
 -Performed Exploratory Data Analysis (EDA) to understand content type, genres, ratings, and trends over time.
+
 -Used Matplotlib/Seaborn for visualizing insights like content growth, genre distribution, and country-wise analysis.
+
 -Derived insights by answering business questions based on the visualizations and summary statistics.
 
 ## Images <img width="1366" height="643" alt="Screenshot 2026-01-21 151620" src="https://github.com/user-attachments/assets/d3ae4008-5130-4a16-bd47-12767bb48dbb" />
@@ -36,8 +48,11 @@ To analyze the Netflix dataset using Python in order to understand content trend
 ## Project Insights
 
 -Netflix’s content library is dominated by movies, with TV shows forming a smaller but growing share.
+
 -Content production has increased significantly in recent years, showing Netflix’s rapid expansion.
+
 -A few countries contribute the majority of Netflix content, indicating region-focused production strategies.
+
 -Certain genres and ratings appear more frequently, reflecting audience preferences and platform demand.
 
 ## Final Conclusions 
